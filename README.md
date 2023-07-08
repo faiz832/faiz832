@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Faiz Muhamamd R</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Java, C++, Python, PHP, and MySQL.**
+- 🌱 I’m currently learning **Java, C++, Python, PHP, HTML, CSS, and MySQL.**
 
 - 💬 Ask me about **Java, C++, Python, MySQL.**
 
