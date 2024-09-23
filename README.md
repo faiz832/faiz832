@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, Faiz Muhamamd R</h1>
 <h3 align="center">Web Developer Enthusiasts</h3>
 
-- 🌱 I’m currently learning **Java, C++, Python, PHP, HTML, CSS, and MySQL.**
-
-- 💬 Ask me about **Java, C++, Python, MySQL.**
-
-- 📫 How to reach me **risyad832@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/faizrisyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiz muhammad" height="30" width="40" /></a>
