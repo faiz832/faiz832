@@ -7,10 +7,10 @@
 <a href="https://www.instagram.com/faizmr_d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizmr_d" height="30" width="40" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz832&progress=true&theme=dark)
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=faiz832&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz832&progress=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
