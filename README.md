@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz832&progress=true&theme=dark)
 
-<h2>GitHub Stats</h2>
+<h2 border-bottom="0">GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=faiz832&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
 
 ### ✍️ Random Dev Quote
