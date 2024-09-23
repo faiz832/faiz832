@@ -10,5 +10,7 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=faiz832&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz832&hide_progress=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
