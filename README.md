@@ -1,4 +1,4 @@
-<h1 align="center" border="none" >Hi 👋, Faiz Muhamamd R</h1>
+<h1 align="center" border-bottom="0" >Hi 👋, Faiz Muhamamd R</h1>
 <h3 align="center">Web Developer Enthusiasts</h3>
 
 <h3 align="left">Connect with me:</h3>
