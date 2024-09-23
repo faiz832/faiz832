@@ -1,4 +1,4 @@
-<h1 align="center" border-bottom="0">Hi 👋, Faiz Muhamamd R</h1>
+<h1 align="center" border-bottom="0" >Hi 👋, Faiz Muhamamd R</h1>
 <h3 align="center">Web Developer Enthusiasts</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz832&progress=true&theme=dark)
 
-<h2 border-bottom="0">GitHub Stats</h2>
+<h2 border-bottom="0" >GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=faiz832&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
 
 ### ✍️ Random Dev Quote
